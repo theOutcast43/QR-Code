@@ -34,20 +34,20 @@ body {
     margin-top: 20px;
     }
     h1 {
-        width: 85%;
+    width: 85%;
     }
     p {
-        width: 85%;
+    width: 85%;
     }
     footer {
-        align-self: end;
-        display: flex;
-        height: 75px;
-        justify-content: center;
-        align-items: center;
-        background-color: rgb(87, 80, 80);
-        width: 100vw;
-        gap: 3px;
+    align-self: end;
+    display: flex;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(87, 80, 80);
+    width: 100vw;
+    gap: 3px;
     }
 }
 /* Desktop UI End */
@@ -71,20 +71,20 @@ body {
     margin-top: 20px;
     }
     h1 {
-        width: 85%;
+    width: 85%;
     }
     p {
-        width: 85%;
+    width: 85%;
     }
     footer {
-        align-self: end;
-        display: flex;
-        height: 75px;
-        justify-content: center;
-        align-items: center;
-        background-color: rgb(87, 80, 80);
-        width: 100vw;
-        gap: 3px;
+    align-self: end;
+    display: flex;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(87, 80, 80);
+    width: 100vw;
+    gap: 3px;
     }
 }
 /* Mobile UI */
@@ -107,10 +107,10 @@ body {
     margin-top: 20px;
     }
     h1 {
-        width: 85%;
+    width: 85%;
     }
     p {
-        width: 85%;
+    width: 85%;
     }
     footer {
     align-self: end;
