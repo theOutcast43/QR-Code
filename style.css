@@ -130,9 +130,10 @@ img {
     border-radius: 12px;
 }
 
-h1 {
+h3 {
     color: hsl(218, 44%, 22%);
     text-align: center;
+    margin: auto;
 }
 
 p {
