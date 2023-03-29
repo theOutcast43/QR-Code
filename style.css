@@ -38,7 +38,7 @@ p {
     height: 50%;
     width: 85%;
     }
-    h3 {
+    .container > h3 {
     width: 85%;
     }
     p {
@@ -75,7 +75,7 @@ p {
     width: 85%;
     margin-top: 20px;
     }
-    h3 {
+    .container > h3 {
     width: 85%;
     }
     p {
@@ -111,7 +111,7 @@ p {
     width: 85%;
     margin-top: 20px;
     }
-    h3 {
+    .container > h3 {
     width: 85%;
     }
     p {
